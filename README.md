@@ -44,6 +44,8 @@ Things you may want to cover:
         }
     }
 
+Can we check the response data for keywords?
+
 ```
 
 * Ruby version
